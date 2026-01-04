@@ -1,1 +1,1 @@
-# ybi-foundation
+# Machine learning algorithm
